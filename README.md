@@ -22,7 +22,7 @@ However, we strongly recommend whoever read this report to join the competition 
 
 "actual_submission" is the real submission file that our code generated from the Kaggle server and scoring top 10% of the competition. You can get an overview of how does the submission file looks like from this file.
 
-# What Didn't Work
+# what didn't work
 
 It is the directory in which we place all our attempts on feature engineering, selections and boosting algorithms. Also, you can only run them on the Kaggle competition kernel.
 
