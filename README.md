@@ -18,6 +18,10 @@ However, we strongly recommend whoever read this report to join the competition 
 
 "coderun1.png" and "coderun2.png" show that our code passed and successfully run through the Kaggle server.
 
+"marketdata_sample.csv" and "news_sample.csv" are provided by Kaggle which gives an overview of how does those data frame looks like to help people getting started to the competition.
+
+"actual_submission" is the real submission file that our code generated from the Kaggle server and scoring top 10% of the competition. You can get an overview of how does the submission file looks like from this file.
+
 # What Didn't Work
 
 It is the directory in which we place all our attempts on feature engineering, selections and boosting algorithms. Also, you can only run them on the Kaggle competition kernel.
