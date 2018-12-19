@@ -4,7 +4,7 @@ This is the repository for the LING131 final project.
 
 "presentation_slides.pptx" is the slide we used for our course presentation.
 
-"LING131\_Project\_Report.pdf" is our final report our this course project.
+"LING131\_Project\_Report.pdf" is our final report of this course project.
 
 This repository contains three directories:
 
