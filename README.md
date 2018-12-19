@@ -26,5 +26,8 @@ However, we strongly recommend whoever read this report to join the competition 
 
 It is the directory in which we place all our attempts on feature engineering, selections and boosting algorithms. Also, you can only run them on the Kaggle competition kernel.
 
+"with_only_market_data.ipynb" is the version we tried without using any news data but only market data. Surprisingly this version's result is slightly worse than our actual submitted version, means the news data indeed helped with the prediction.
+
+"xgboost_version.ipynb" is the version we used xgboost instead of LightGBM, the reason why we discarded it is explained in the report.
 
 
